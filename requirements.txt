@@ -31,7 +31,6 @@ MarkupSafe==2.1.3
 murmurhash==1.0.9
 outcome==1.2.0
 packaging==23.1
-pandas==2.0.2
 pathy==0.10.2
 Pillow==9.5.0
 preshed==3.0.8
