@@ -1,4 +1,7 @@
 import telebot
+from flask import Flask
+
+app= Flask(__name__)
 
 chave_API="6526434080:AAHaT_qARephRnaX7geuZavbTYyynvPODUs"
 bot = telebot.TeleBot(chave_API)
@@ -58,3 +61,4 @@ def responder_mensagens(mensagem):
 
 
 bot.polling()
+app.run(debug=True)
