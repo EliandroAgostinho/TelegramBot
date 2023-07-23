@@ -21,6 +21,7 @@ Django==3.2.20
 exceptiongroup==1.1.2
 Flask==2.2.5
 fonttools==4.38.0
+gunicorn==20.1.0
 h11==0.14.0
 idna==3.4
 itsdangerous==2.1.2
