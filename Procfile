@@ -1,1 +1,1 @@
-web: gunicorn CriandoBotTelegram.py
+web: gunicorn CriandoBotTelegram:app
