@@ -51,8 +51,8 @@ def verificar(mensagem):
 def responder_mensagens(mensagem):
     texto="""Escolha uma opcao para continuar(clique no item):
     /Opcao1 Fazer um pedido
-    /opcao2 Reclamar de um pedido
-    /opcao3 Mandar um abraco pro ...
+    /Opcao2 Reclamar de um pedido
+    /Opcao3 Mandar um abraco pro ...
     Responder qualquer outra coisa nao vai funcionar, clique em uma das opcoes
           
 """
